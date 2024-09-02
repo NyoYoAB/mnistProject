@@ -1,6 +1,6 @@
-# You should add these files to your local repository
+# You should add these files to our local repository:
+# inputs / MNIST_test.csv
+# inputs / MNIST_train.csv
 
-MNIST_train.csv
-MNIST_test.csv
 
 inputs
